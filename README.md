@@ -47,10 +47,10 @@ Screenshots from AI learning sessions and expert-led lectures:
 - Prompt engineering workshops
 - Responsible AI discussions
 
-![AI Session 1](./Screenshots/session1.png)
-![AI Session 2](./Screenshots/session2.png)
-![AI Session 1](./Screenshots/session1.png)
-![AI Session 2](./Screenshots/session2.png)
+![AI Session 1](Session1.png)
+![AI Session 2](Session2.png)
+![AI Session 1](Session3.png)
+![AI Session 2](Session4.png)
 
 ## 🚀 Projects & Experiments
 
