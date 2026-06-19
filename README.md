@@ -39,6 +39,18 @@ This repository documents my journey of learning Artificial Intelligence through
 - Responsible AI practices
 
 ---
+## 📚 Learning Sessions
+
+Screenshots from AI learning sessions and expert-led lectures:
+
+- AI fundamentals sessions
+- Prompt engineering workshops
+- Responsible AI discussions
+
+![AI Session 1](./Screenshots/session1.png)
+![AI Session 2](./Screenshots/session2.png)
+![AI Session 1](./Screenshots/session1.png)
+![AI Session 2](./Screenshots/session2.png)
 
 ## 🚀 Projects & Experiments
 
